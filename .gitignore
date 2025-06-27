@@ -1,0 +1,16 @@
+# Ignore virtual environment
+tf_clean/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore compiled binaries
+*.pyd
+*.dll
+
+# Ignore logs and junk
+*.log
+.DS_Store
